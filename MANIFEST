@@ -4,3 +4,4 @@ LICENSE.txt
 README.txt
 setup.py
 gimage/__init__.py
+gimage/__main__.py

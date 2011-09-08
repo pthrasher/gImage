@@ -7,7 +7,7 @@ setup(
     author_email='philipthrasher@gmail.com',
     packages=['gimage'],
     scripts=[],
-    url='http://pypi.python.org/pypi/gimage/',
+    url='https://github.com/pthrasher/gimage',
     license='LICENSE.txt',
     description='Search google images, return first result.',
     long_description=open('README.txt').read(),
