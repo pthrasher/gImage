@@ -16,5 +16,3 @@ def get_image_url(search_terms):
 
     return msg
 
-if __name__ == '__main__':
-    sys.stdout.write(get_image_url(" ".join(sys.argv)))

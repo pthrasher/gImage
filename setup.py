@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='gImage',
-    version='1.0.0',
+    version='1.0.1',
     author='Philip Thrasher',
     author_email='philipthrasher@gmail.com',
     packages=['gimage'],
